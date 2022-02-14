@@ -1,0 +1,56 @@
+{
+    "Corse": {
+        "Maniccia":{
+            "url": "http://www.webcams-montagne.fr/nivose22/Corse-ManicS/Corse-ManicS-%S-07-12.gif",
+            "latitude": "42.208289",
+            "longitude": "9.049142"
+        },
+        "Sponde":{
+            "url": "http://www.webcams-montagne.fr/nivose22/Corse-SpondeS/Corse-SpondeS-%S-07-12.gif",
+            "latitude": "42.324739",
+            "longitude": "8.882712"
+        }
+    },
+    "AlpesDuNord": {
+        "AiguillesRouges":{
+            "url": "http://www.webcams-montagne.fr/nivose22/AigRougesS/AigRougesS-%S-07-12.gif",
+            "latitude": "45.986389",
+            "longitude": "6.896944"
+        },
+        "GrandeParei":{
+            "url": "http://www.webcams-montagne.fr/nivose22/GrandePareiS/GrandePareiS-%S-07-12.gif",
+            "latitude": "45.614468",
+            "longitude": "6.648686"
+        },
+        "Allant":{
+            "url": "http://www.webcams-montagne.fr/nivose22/AllantS/AllantS-%S-07-12.gif",
+            "latitude": "45.663785",
+            "longitude": "6.211835"
+        },
+        "St-Hilaire":{
+            "url": "http://www.webcams-montagne.fr/nivose22/AllantS/AllantS-%S-07-12.gif",
+            "latitude": "45.313889",
+            "longitude": "5.863611"
+        },
+        "ColDePorte": {
+            "url": "http://www.webcams-montagne.fr/nivose22/ColPorteS/ColPorteS-%S-07-12.gif",
+            "latitude": "45.295",
+            "longitude": "5.765278"
+        },
+        "LeGua": {
+            "url": "http://www.webcams-montagne.fr/nivose22/LeGuaS/LeGuaS-%S-07-12.gif",
+            "latitude": "45.015",
+            "longitude": "5.588611"
+        },
+        "Aigleton": {
+            "url": "http://www.webcams-montagne.fr/nivose22/AigletonS/AigletonS-%S-07-12.gif",
+            "latitude": "45.231111",
+            "longitude": "6.038056"
+        },
+        "Bellecote": {
+            "url": "http://www.webcams-montagne.fr/nivose22/AigRougesH/AigRougesH-%S-15-13.gif",
+            "latitude": "45.488889",
+            "longitude": "6.771111"
+        }
+    }
+}
